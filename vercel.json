@@ -3,10 +3,6 @@
   "outputDirectory": ".next",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "protection": {
-    "enabled": false,
-    "bypassForToken": "YOUR_BYPASS_TOKEN_HERE"
-  },
   "env": {
     "DATABASE_URL": "@database_url",
     "DISCORD_TOKEN": "@discord_token",
